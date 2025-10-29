@@ -1,0 +1,9 @@
+# Arquivos e pastas a serem ignorados
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.exe
+*.dll
+*.log
